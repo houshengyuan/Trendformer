@@ -4,28 +4,23 @@
 ## Key Points of Trendformer
 **1. Short-time Fourier Transform Decoupling**
 <p align="center">
-<img src="pic/img.png" height = "200" alt="" align=center />
+<img src="pic/overall-a_00.png" height = "200" alt="" align=center />
 
 <b>Figure 1.</b> Short-time Fourier based Decoupling. 
 </p>
 
 **2. Gaussian Mixture Model based Trend Prediction**
 <p align="center">
-<img src="pic/img_1.png" height = "200" alt="" align=center />
+<img src="pic/overall-b_00.png" height = "200" alt="" align=center />
 
 <b>Figure 2.</b> GMM based Trend probabilistic forecasting. 
 </p>
 
 **3. Inverted Transformer Backbone and Parameter Sharing Layer**
 <p align="center">
-<img src="pic/Trend.pdf" height = "200" alt="" align=center />
+<img src="pic/overall-c_00.png" height = "200" alt="" align=center />
 
-<b>Figure 3.</b> Trend Prediction by Inverted Transformer Block. </p>
-
-<p align="center">
-<img src="pic/MultiPeriod.pdf" height = "200" alt="" align=center />
-
-<b>Figure 4.</b> Multi-period Parameter-sharing Module.
+<b>Figure 3.</b> (a) Trend Prediction by Inverted Transformer Block. (b) Multi-period Parameter-sharing Module. </p>
 </p>
 
 ## Code Structures
